@@ -1,7 +1,7 @@
 {
 	"name": "Etiraf Bot",
-	"description": "@Sirvhan Tərəfindən kodlanan etiraf botu",
-	"repository": "https://github.com/Goqerti/Etiraf",
+	"description": "@A_l_i_y_e_v_d_i Tərəfindən kodlanan etiraf botu",
+	"repository": "https://github.com/Aliyevdii/NEXUS",
 	"env": {
 		"BOT_TOKEN": {
 			"description": "@BotFather dan alınan Bot Token girin."
